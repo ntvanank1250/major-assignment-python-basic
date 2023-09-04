@@ -1,0 +1,9 @@
+ACCT5124|	Hoạch định nguồn lực doanh nghiệp
+ACCT5123|	Tiếng Anh tăng cường 1
+ACCT5125|	Tiếng Anh tăng cường 2
+AC6T5123|	Tiếng Anh tăng cường 3
+AC9T5124|	Tiếng Anh tăng cường 4
+ACC55123|	Nhập môn máy tính lượng tử
+56CT5124|	Kiến trúc máy tính
+89CT5196|Môn học mới sauwr
+41CT5124|	Lý thuyết mạch điện

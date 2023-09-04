@@ -1,0 +1,12 @@
+﻿PY000002|Thân Đức Hiếu|22/09/1995|1|CMC Global|0857689195|hieuthan1995@gmail.com
+PY000003|Nguyễn Duy Phương|20/09/1993|1|Học Viện Kỹ Thuật Quân Sự|0972867139|phuongktqs93@gmail.com
+PY000004|Phạm Hoàng Việt|02/04/1999|1|RMIT University|0918941600|Phamhoangviet41199@gmail.com
+PY000005|Nguyễn Phương Thảo|08/09/1995|1|CMC Global|0964330956|nguyenthao.npt98@gmail.com
+PY000006|Đỗ Quang Tuấn|20/09/1994|1|Nhật Bản|08055672009|quangtuanhy94@gmail.com
+PY000007|Đỗ Duy Hiệu|09/12/1998|1|Đại học Dược Hà Nội|0947983316|doduyhieu12091998@gmail.com
+PY000008|Phạm Ngọc Hoàng|28/12/1971|1|CTY DAKAR|0913677171|hoangdigan@gmail.com
+PY000013|Trần Nguyễn Thùy Dương|3/27/1995|1|Hàn Quốc|01030852703|nguyetnhu1995@gmail.com
+PY000014|Trần Hồng Vũ|11/11/1988|1|Hà Nội|0976122933|tranhongvu88@gmail.com
+PY000020|Trần Thúy Hồng||1|Nhật Bản|09030642002|Hongtran.ftu01@gmail.com
+PY000022|Châu Trọng Nghĩa||1|Alps giken|08,17045E+11|chaunghia11@gmail.com
+PY000012|Phạm Văn Đức|02/06/1997|1|Nhật Bản|05068661836|duc.samuraj@gmail.com
